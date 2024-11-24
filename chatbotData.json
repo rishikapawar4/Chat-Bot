@@ -1,0 +1,92 @@
+[
+    {
+        "category": "Delivery",
+        "question": "What is the delivery cost?",
+        "answer": "Delivery cost depends on your location and the order amount. You can view the cost at checkout.",
+        "keywords": ["delivery", "cost", "fee", "charge"]
+    },
+    {
+        "category": "Payment",
+        "question": "Can I pay through PayPal?",
+        "answer": "Currently, we only accept payments via credit cards, debit cards, UPI, and cash on delivery.",
+        "keywords": ["pay", "paypal", "payment", "method"]
+    },
+    {
+        "category": "Discounts",
+        "question": "Can I use multiple discount coupons at once?",
+        "answer": "No, you can only apply one discount coupon per order.",
+        "keywords": ["multiple", "coupons", "discount", "apply"]
+    },
+    {
+        "category": "Account",
+        "question": "How do I change my account details?",
+        "answer": "To change your account details, log in, go to 'Account Settings,' and update your information.",
+        "keywords": ["change", "account", "details", "settings"]
+    },
+    {
+        "category": "Order",
+        "question": "How can I track my order?",
+        "answer": "You can track your order by visiting the 'Track Order' section on the app or website.",
+        "keywords": ["track", "order", "status"]
+    },
+    {
+        "category": "Delivery",
+        "question": "Do you deliver to my area?",
+        "answer": "We deliver to most areas. Enter your address at checkout to confirm if we deliver to your location.",
+        "keywords": ["deliver", "area", "location", "delivery"]
+    },
+    {
+        "category": "Payment",
+        "question": "Can I pay on delivery?",
+        "answer": "Yes, we offer cash on delivery as one of the payment options.",
+        "keywords": ["pay", "delivery", "cash", "payment"]
+    },
+    {
+        "category": "Discounts",
+        "question": "How can I get notified about new discounts?",
+        "answer": "You can sign up for our newsletter or enable notifications in the app to stay updated on new discounts.",
+        "keywords": ["notified", "new", "discounts", "notifications"]
+    },
+    {
+        "category": "Account",
+        "question": "How do I delete my account?",
+        "answer": "To delete your account, contact our support team via email or in the app's help section.",
+        "keywords": ["delete", "account", "remove", "support"]
+    },
+    {
+        "category": "Order",
+        "question": "Can I modify my order after placing it?",
+        "answer": "You can modify your order only before it's confirmed. Once confirmed, the order cannot be changed.",
+        "keywords": ["modify", "order", "change", "confirm"]
+    },
+    {
+        "category": "Delivery",
+        "question": "Can I schedule my delivery for a later time?",
+        "answer": "Yes, you can select a preferred delivery time during checkout, subject to availability.",
+        "keywords": ["schedule", "delivery", "time", "later"]
+    },
+    {
+        "category": "Payment",
+        "question": "Is there a transaction fee for online payments?",
+        "answer": "No, we do not charge any additional transaction fees for online payments.",
+        "keywords": ["transaction", "fee", "online", "payment"]
+    },
+    {
+        "category": "Discounts",
+        "question": "Are there any student discounts available?",
+        "answer": "Yes, we offer exclusive discounts for students. Sign up with your student email to get the benefits.",
+        "keywords": ["student", "discount", "offer", "exclusive"]
+    },
+    {
+        "category": "Account",
+        "question": "How can I update my email address?",
+        "answer": "You can update your email address by going to 'Account Settings' and changing it under 'Email.'",
+        "keywords": ["update", "email", "address", "account"]
+    },
+    {
+        "category": "Order",
+        "question": "What happens if my order is late?",
+        "answer": "If your order is delayed, we will notify you and offer a solution, such as a discount or free delivery.",
+        "keywords": ["order", "late", "delay", "solution"]
+    }
+]
