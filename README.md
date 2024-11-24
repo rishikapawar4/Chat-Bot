@@ -3,7 +3,7 @@
 
 A intelligent chatbot application built using Node.js, Express.js, and vanilla JavaScript. This chatbot is designed to respond to user queries based on pre-defined data stored in JSON files, and it also supports dark/light mode toggling.
 
-*##Features*
+**#Features**
 
   -Chatbot responds with pre-defined answers based on user queries.
 
@@ -19,7 +19,7 @@ A intelligent chatbot application built using Node.js, Express.js, and vanilla J
 
   
 
-*##Usage*
+**#Usage**
 
   -Open the chatbot interface in your browser (default: http://localhost:3001).
 
@@ -33,7 +33,7 @@ A intelligent chatbot application built using Node.js, Express.js, and vanilla J
 
   
 
-*##API Endpoints*
+**#API Endpoints**
 
   1.POST /chatbot/chat: Sends user input to the chatbot and returns a response. This endpoint is handled by the chatbotController.
 
@@ -43,7 +43,7 @@ A intelligent chatbot application built using Node.js, Express.js, and vanilla J
 
   
 
-*##Technologies Used*
+**#Technologies Used**
 
   1.Backend: Node.js, Express.js
 
@@ -53,9 +53,9 @@ A intelligent chatbot application built using Node.js, Express.js, and vanilla J
 
   
 
-*Contributing*
+**Contributing**
   Feel free to fork the repository, open issues, or submit pull requests. Contributions are welcome!
 
-*Contact*
+**Contact**
   For any inquiries, you can reach out at [rishikapawar2004@gmail.com].
 
