@@ -17,6 +17,8 @@ A intelligent chatbot application built using Node.js, Express.js, and vanilla J
 
   -Designed for easy customization and further integration.
 
+  
+
 #Usage
 
   -Open the chatbot interface in your browser (default: http://localhost:3001).
@@ -29,6 +31,8 @@ A intelligent chatbot application built using Node.js, Express.js, and vanilla J
 
   -You can toggle between dark and light modes using the theme toggle button.
 
+  
+
 #API Endpoints
 
   1.POST /chatbot/chat: Sends user input to the chatbot and returns a response. This endpoint is handled by the chatbotController.
@@ -37,6 +41,8 @@ A intelligent chatbot application built using Node.js, Express.js, and vanilla J
 
   3.GET /randomChat.json: Fetches the randomChat.json file containing random jokes and GK answers.
 
+  
+
 #Technologies Used
 
   1.Backend: Node.js, Express.js
@@ -44,6 +50,8 @@ A intelligent chatbot application built using Node.js, Express.js, and vanilla J
   2.Frontend: HTML, CSS, JavaScript
 
   3.Other: Body-Parser, CORS
+
+  
 
 #Contributing
   Feel free to fork the repository, open issues, or submit pull requests. Contributions are welcome!
